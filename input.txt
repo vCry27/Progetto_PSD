@@ -1,0 +1,3 @@
+Studiare insiemistica;Matematica;2025-06-01;5;ALTA
+Ripasso SQL;Informatica;2025-05-02;3;MEDIA
+Riassunto Promessi Sposi;Italiano;2025-06-03;2;BASSA

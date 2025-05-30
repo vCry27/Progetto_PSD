@@ -1,0 +1,23 @@
+Attività: Riassunto Promessi Sposi
+Corso: Italiano
+Scadenza: 2025-06-03
+Ore stimate: 2
+Ore svolte: 2
+Priorità: BASSA
+Stato: COMPLETATA
+
+Attività: Ripasso SQL
+Corso: Informatica
+Scadenza: 2025-05-02
+Ore stimate: 3
+Ore svolte: 0
+Priorità: MEDIA
+Stato: IN_CORSO
+
+Attività: Studiare insiemistica
+Corso: Matematica
+Scadenza: 2025-06-01
+Ore stimate: 5
+Ore svolte: 0
+Priorità: ALTA
+Stato: IN_CORSO
